@@ -18,8 +18,8 @@ function forme(canvas, evt){
 function rectangle(canvas , evt){
 
 	forme.call(this, canvas, evt);
-	var hauteur;
-	var largeur;
+	var coordPoint1;
+	var coordPoint2d;
 
 }
 
